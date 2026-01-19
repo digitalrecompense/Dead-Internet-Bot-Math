@@ -5,11 +5,11 @@
 
 This is the theoretical mathematical thesis created and presented by me with concern for the "dead internet" theory.
 
-# 🜖
+# 🜛
 
 <br>
 <br>
-🜛 THE DEAD INTERNET PROOF SKETCH 🜛
+# THE DEAD INTERNET PROOF SKETCH
 
 I. THE SYSTEM OF ENTITIES
 
