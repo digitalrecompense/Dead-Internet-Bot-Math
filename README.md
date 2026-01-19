@@ -110,17 +110,28 @@ H* ≈ 2.83B
 <div align="left">
 
 Bots:
+
 • Generate exponential content
+
 • Operate without pause
+
 • Self-replicate endlessly
+
 • Scale cheaply, improved by AI
+
 • Age into “trusted” entities
 
+
 Humans:
+
 • Burn out
+
 • Depart the system
+
 • Reduce participation
+
 • Are silenced by noise and spam
+
 
 <div align="center">
 
