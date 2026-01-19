@@ -198,9 +198,11 @@ Humans cannot scale competitively
 
 ## X. THE CORE ARGUMENT
 
-<div align="left">
+<div align="center">
   
 Without:
+
+<div align="left">
 
 • Enforceable identity
 
@@ -212,4 +214,4 @@ Without:
 
 <div align="center">
   
-###### The system’s equilibrium is non-human discourse. Not accidental. Not rhetorical. It is mathematics, incentives, and exponential scaling manifesting into a dystopian future for all of us.
+###### The system’s equilibrium is non-human discourse. Not accidental. Not rhetorical. It is mathematics, incentives, and exponential scaling manifest.
