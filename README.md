@@ -141,17 +141,20 @@ Humans:
 ###### Numerical parity is irrelevant. Engagement is everything.
 
 ## VII. ENGAGEMENT DOMINANCE
-
-<div align="left">
   
 ### E = engagement per account
+
+<div align="left">
 
 #### Humans = 1 unit
 
 #### Bots = k units, k ≥ 10
 
+<div align="center">
 
 ### Effective presence:
+
+<div align="left">
 
 Effective Bots = k · B* = 10 × 625M = 6.25B
 
