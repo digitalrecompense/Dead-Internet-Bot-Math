@@ -107,9 +107,9 @@ H* ≈ 2.83B
 
 ## VI. WHY THE MODEL UNDERESTIMATES
 
-<div align="left">
-
 Bots:
+
+<div align="left">
 
 • Generate exponential content
 
@@ -121,8 +121,11 @@ Bots:
 
 • Age into “trusted” entities
 
+<div align="center">
 
 Humans:
+
+<div align="left">
 
 • Burn out
 
