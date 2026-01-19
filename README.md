@@ -165,8 +165,6 @@ Effective Humans = H* ≈ 2.83B
 ###### Bots dominate perception. Bots dominate discourse. Bots dominate consensus. This is the mathematical heart of the Dead Internet.
 
 ## VIII. EXPONENTIAL RATCHET
-
-<div align="left">
   
 Bots improve faster than detection. Detection is reactive; creation is proactive. Platforms reward synthetic engagement.
 
