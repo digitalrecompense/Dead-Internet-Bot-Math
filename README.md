@@ -41,8 +41,7 @@ Human attrition dₕ ≈ 0.12
 
 <div align="center">
 
-These assumptions favor human persistence.
-Yet the exponential is relentless.
+###### These assumptions favor human persistence. Yet the exponential is relentless.
 
 ## III. RECURRENCE OF LIFE AND AUTOMATION
 
@@ -51,8 +50,7 @@ H(t+1) = (1 − dₕ) · H(t) + Nₕ
 
 <div align="center">
 
-Creation. Survival. Decay.
-This is the law of recurrence.
+###### Creation. Survival. Decay. This is the law of recurrence.
 
 ## IV. THE BOT EQUATION REVEALED
 
@@ -72,8 +70,7 @@ B* = 625M
 
 <div align="center">
 
-This is the floor of persistence.
-Not the apocalypse — yet.
+###### This is the floor of persistence. Not the apocalypse — yet.
   
 ## V. THE HUMAN EQUATION REVEALED
 
@@ -86,8 +83,7 @@ Substitute:
 H* = 340M / 0.12
 H* ≈ 2.83B
 
-Stability appears.
-Reality will intervene.
+###### Stability appears. Reality will intervene.
 
 <div align="center">
 
@@ -108,8 +104,7 @@ Humans:
 • Reduce participation
 • Are silenced by noise and spam
 
-Numerical parity is irrelevant.
-Engagement is everything.
+###### Numerical parity is irrelevant. Engagement is everything.
 
 <div align="center">
 
@@ -126,11 +121,11 @@ Effective presence:
 Effective Bots = k · B* = 10 × 625M = 6.25B
 Effective Humans = H* ≈ 2.83B
 
-Bots dominate perception.
-Bots dominate discourse.
-Bots dominate consensus.
+###### Bots dominate perception.
+###### Bots dominate discourse.
+###### Bots dominate consensus.
 
-This is the mathematical heart of the Dead Internet.
+###### This is the mathematical heart of the Dead Internet.
 
 <div align="center">
 
