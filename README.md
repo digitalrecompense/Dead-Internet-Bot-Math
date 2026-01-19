@@ -30,8 +30,11 @@ The system is dual. The system is absolute.
 <div align="left">
 
 Total new accounts per cycle ≈ 840M
+
 Bots at creation ≈ 60%
+
 Nᵦ ≈ 500M
+
 Nₕ ≈ 340M
 
 Bot survival s = 0.20
