@@ -172,18 +172,15 @@ Effective Humans = H* ≈ 2.83B
 
 <div align="left">
   
-Bots improve faster than detection
-Detection is reactive; creation is proactive
-Platforms reward synthetic engagement
-No law demands transparency
-No law caps automation
-No law enforces identity
-
-The system ratchets forward.
-Once bots dominate attention, humans behave as if bots are real.
-The illusion feeds itself.
+Bots improve faster than detection. Detection is reactive; creation is proactive. Platforms reward synthetic engagement.
 
 <div align="center">
+
+No law demands transparency.
+No law caps automation.
+No law enforces identity.
+
+###### The system ratchets forward. Once bots dominate attention, humans behave as if bots are real. The illusion feeds itself.
 
 ## IX. THE DEAD INTERNET DEFINED
 
