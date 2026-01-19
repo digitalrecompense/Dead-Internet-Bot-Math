@@ -85,22 +85,25 @@ B* = 625M
   
 ## V. THE HUMAN EQUATION REVEALED
 
-<div align="left">
-
 Steady-state humans:
+
+<div align="left">
 
 H* = Nₕ / dₕ
 
+<div align="center">
 
 Substitute:
+
+<div align="left">
 
 H* = 340M / 0.12
 
 H* ≈ 2.83B
 
-###### Stability appears. Reality will intervene.
-
 <div align="center">
+
+###### Stability appears. Reality will intervene.
 
 ## VI. WHY THE MODEL UNDERESTIMATES
 
