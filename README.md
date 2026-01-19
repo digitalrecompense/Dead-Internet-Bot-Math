@@ -49,6 +49,8 @@ Human attrition dₕ ≈ 0.12
 
 ## III. RECURRENCE OF LIFE AND AUTOMATION
 
+<div align="left">
+
 B(t+1) = s · B(t) + Nᵦ
 
 H(t+1) = (1 − dₕ) · H(t) + Nₕ
@@ -113,9 +115,9 @@ Humans:
 • Reduce participation
 • Are silenced by noise and spam
 
-###### Numerical parity is irrelevant. Engagement is everything.
-
 <div align="center">
+
+###### Numerical parity is irrelevant. Engagement is everything.
 
 ## VII. ENGAGEMENT DOMINANCE
 
