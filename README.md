@@ -9,7 +9,6 @@ This is the theoretical mathematical thesis created and presented by me with con
 
 <br>
 <br>
-<br>
 ⚛ THE DEAD INTERNET PROOF SKETCH ⚛
 I. THE SYSTEM OF ENTITIES
 
