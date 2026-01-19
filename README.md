@@ -201,13 +201,15 @@ Humans cannot scale competitively
 <div align="left">
   
 Without:
+
 • Enforceable identity
+
 • Synthetic account labeling
+
 • Legal automation caps
+
 • Liability for artificial consensus
 
-The system’s equilibrium is non-human discourse.
-
-Not accidental.
-Not rhetorical.
-It is mathematics, incentives, and exponential scaling manifest.
+<div align="center">
+  
+###### The system’s equilibrium is non-human discourse. Not accidental. Not rhetorical. It is mathematics, incentives, and exponential scaling manifesting into a dystopian future for all of us.
