@@ -26,6 +26,7 @@ The system is dual. The system is absolute.
 
 
 ## II. EMPIRICAL ASSUMPTIONS
+
 <div align="left">
 
 Total new accounts per cycle ≈ 840M
@@ -40,8 +41,10 @@ These assumptions favor human persistence.
 Yet the exponential is relentless.
 
 <div align="center">
+
 ## III. RECURRENCE OF LIFE AND AUTOMATION
-<div align="left">
+
+  <div align="left">
 
 B(t+1) = s · B(t) + Nᵦ
 H(t+1) = (1 − dₕ) · H(t) + Nₕ
