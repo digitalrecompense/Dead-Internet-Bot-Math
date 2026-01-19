@@ -1,6 +1,7 @@
 <div align="center">
   
 # Dead-Internet-Theory
+###### By: Robert R. P.
 ## THE DEAD INTERNET PROOF SKETCH
 ### Bot-Math
 
