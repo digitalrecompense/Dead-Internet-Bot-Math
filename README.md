@@ -29,6 +29,8 @@ The system is dual. The system is absolute.
 
 ## II. EMPIRICAL ASSUMPTIONS
 
+<div align="left">
+
 Total new accounts per cycle ≈ 840M
 Bots at creation ≈ 60%
 Nᵦ ≈ 500M
@@ -42,6 +44,8 @@ Yet the exponential is relentless.
 
 ## III. RECURRENCE OF LIFE AND AUTOMATION
 
+<div align="left">
+
 B(t+1) = s · B(t) + Nᵦ
 H(t+1) = (1 − dₕ) · H(t) + Nₕ
 
@@ -49,6 +53,8 @@ Creation. Survival. Decay.
 This is the law of recurrence.
 
 ## IV. THE BOT EQUATION REVEALED
+
+<div align="left">
 
 Steady-state bots:
 B* = Nᵦ / (1 − s)
@@ -63,6 +69,8 @@ Not the apocalypse — yet.
 
 ## V. THE HUMAN EQUATION REVEALED
 
+<div align="left">
+
 Steady-state humans:
 H* = Nₕ / dₕ
 
@@ -73,7 +81,9 @@ H* ≈ 2.83B
 Stability appears.
 Reality will intervene.
 
-##VI. WHY THE MODEL UNDERESTIMATES
+## VI. WHY THE MODEL UNDERESTIMATES
+
+<div align="left">
 
 Bots:
 • Generate exponential content
