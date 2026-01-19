@@ -8,7 +8,6 @@ This is the theoretical mathematical thesis created and presented by me with con
 # 🜛
 
 <br>
-<br>
 
 # THE DEAD INTERNET PROOF SKETCH
 
