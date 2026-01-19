@@ -107,8 +107,12 @@ Humans:
 Numerical parity is irrelevant.
 Engagement is everything.
 
+<div align="center">
+
 ## VII. ENGAGEMENT DOMINANCE
 
+<div align="left">
+  
 E = engagement per account
 
 Humans = 1 unit
@@ -124,8 +128,12 @@ Bots dominate consensus.
 
 This is the mathematical heart of the Dead Internet.
 
+<div align="center">
+
 ## VIII. EXPONENTIAL RATCHET
 
+<div align="left">
+  
 Bots improve faster than detection
 Detection is reactive; creation is proactive
 Platforms reward synthetic engagement
@@ -137,8 +145,12 @@ The system ratchets forward.
 Once bots dominate attention, humans behave as if bots are real.
 The illusion feeds itself.
 
+<div align="center">
+
 ## IX. THE DEAD INTERNET DEFINED
 
+<div align="left">
+  
 A network where consensus, engagement, and relevance are no longer human-derived.
 
 Occurs long before bots numerically outnumber humans.
@@ -150,8 +162,12 @@ Humans cannot scale competitively
 
 This is structural inevitability, not conspiracy.
 
+<div align="center">
+
 ## X. THE CORE ARGUMENT
 
+<div align="left">
+  
 Without:
 • Enforceable identity
 • Synthetic account labeling
