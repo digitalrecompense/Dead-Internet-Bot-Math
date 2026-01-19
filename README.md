@@ -220,5 +220,5 @@ Without:
 
 # The Internet is Dead
 
-###### By: Robert R. P., 
+###### By: Robert R. P. 
 ###### RAiTHE INDUSTRIES INC. (C) 2026, CANADA
