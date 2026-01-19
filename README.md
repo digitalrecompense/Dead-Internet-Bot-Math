@@ -10,7 +10,7 @@ This is the theoretical mathematical thesis created and presented by me with con
 <br>
 <br>
 
-# THE DEAD INTERNET PROOF SKETCH
+#THE DEAD INTERNET PROOF SKETCH
 
 I. THE SYSTEM OF ENTITIES
 
@@ -27,7 +27,7 @@ All entities exist only as H or B.
 No entity may be both.
 The system is dual. The system is absolute.
 
-## II. EMPIRICAL ASSUMPTIONS
+##II. EMPIRICAL ASSUMPTIONS
 
 Total new accounts per cycle ≈ 840M
 Bots at creation ≈ 60%
@@ -61,7 +61,7 @@ B* = 625M
 This is the floor of persistence.
 Not the apocalypse — yet.
 
-## V. THE HUMAN EQUATION REVEALED
+##V. THE HUMAN EQUATION REVEALED
 
 Steady-state humans:
 H* = Nₕ / dₕ
@@ -73,7 +73,7 @@ H* ≈ 2.83B
 Stability appears.
 Reality will intervene.
 
-## VI. WHY THE MODEL UNDERESTIMATES
+##VI. WHY THE MODEL UNDERESTIMATES
 
 Bots:
 • Generate exponential content
