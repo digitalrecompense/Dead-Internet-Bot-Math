@@ -8,7 +8,7 @@ This is the theoretical mathematical thesis created and presented by me with con
 # 🜛
 THE DEAD INTERNET PROOF SKETCH
 
-I. THE SYSTEM OF ENTITIES
+# I. THE SYSTEM OF ENTITIES
 <div align="left">
 
 H(t) — genuine human-controlled accounts at cycle t
