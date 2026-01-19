@@ -1,13 +1,12 @@
 <div align="center">
   
 # Dead-Internet-Theory
+## THE DEAD INTERNET PROOF SKETCH
 ### Bot-Math
 
 This is the theoretical mathematical thesis created and presented by me with concern for the "dead internet" theory.
 
 # 🜛
-THE DEAD INTERNET PROOF SKETCH
-
 # I. THE SYSTEM OF ENTITIES
 <div align="left">
 
